@@ -1,0 +1,56 @@
+.sidebar{
+    float: left;
+    background-color: #247BA0;
+    height: 100vh;
+    width: 20%;
+    display: inline-block;
+    text-align: center;
+    text-justify: auto;
+
+}
+
+.mainbar{
+    background-color: #EAF2E3;
+    height: 100vh;
+    width: 80%;
+    display: inline-block;
+}
+
+body{
+    margin:0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.sidebarimg{
+    margin-top: 50px;
+    display: inline-block;
+    width: 250px;
+    border-radius: 50%;
+}
+
+h2{
+    color: #211A1E;
+}
+
+p{
+    color: #211A1E;
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+    font-size: 48px;
+    margin: 5px;
+    color: #211A1E;
+}
+
+.post-text{
+    text-justify: auto;
+    margin: 15px;
+}
+
+.post-title{
+    margin: 15px;
+}
